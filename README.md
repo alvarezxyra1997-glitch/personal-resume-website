@@ -24,10 +24,11 @@ This project is a personal resume website created to introduce myself and showca
 - CSS
 
 ## Live Website
-[[View My Live Website](YOUR_GITHUB_PAGES_LINK)](https://alvarezxyra1997-glitch.github.io/personal-resume-website/)
+io/personal-resume-website
 
 ## GitHub Repository
-[View My GitHub Repository](YOUR_GITHUB_REPOSITORY_LINK)
+https://github.com/alvarezxyra1997-glitch/personal-resume-website
 
 ## Screenshot
-![Personal Resume Website](profile.jpg)
+<img width="1900" height="988" alt="screenshot" src="https://github.com/user-attachments/assets/642f5cb6-23ce-42ce-b725-9f696853483d" />
+
