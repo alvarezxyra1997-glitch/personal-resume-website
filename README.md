@@ -17,7 +17,6 @@ This project is a personal resume website created to introduce myself and showca
 - Career Goals
 - More About Me
 - Contact Information
-- Responsive Website Design
 
 ## Technologies Used
 - HTML
