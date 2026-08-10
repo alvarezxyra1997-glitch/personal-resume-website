@@ -24,7 +24,7 @@ This project is a personal resume website created to introduce myself and showca
 - CSS
 
 ## Live Website
-io/personal-resume-website
+https://alvarezxyra1997-glitch.github.io/personal-resume-website
 
 ## GitHub Repository
 https://github.com/alvarezxyra1997-glitch/personal-resume-website
