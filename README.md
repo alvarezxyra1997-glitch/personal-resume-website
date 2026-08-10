@@ -21,6 +21,7 @@ This project is a personal resume website created to introduce myself and showca
 ## Technologies Used
 - HTML
 - CSS
+- JavaScript
 
 ## Live Website
 https://alvarezxyra1997-glitch.github.io/personal-resume-website
